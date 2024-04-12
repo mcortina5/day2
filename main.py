@@ -30,6 +30,9 @@
 # age = input("What is your age? ")
 # print("Hello " + name + " you are " + age + " years old")
 
+
+
+
 personName = input("What is your name?")
 favoriteColor = input("What is your favorite color?")
 print(personName + " likes " + favoriteColor)
